@@ -1,14 +1,14 @@
 /* MASTER CSS FILE */
 body{
-  background-color: #e1f7f7;
+  background-color: #cff9ea;
   /* box-sizing: border-box; */
 }
 h1{
-  padding: 4em 3em 2em 5em;
+  padding: 4em 3em 1em 2.2em;
   font-family: Helvetica, Arial, sans-serif;
   font-weight: 800;
-  font-size: 25px;
-  line-height: 20px;
+  font-size: 45px;
+  line-height: 1;
   color: #333;
 }
 
