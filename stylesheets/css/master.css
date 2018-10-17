@@ -1,7 +1,8 @@
 /* MASTER CSS FILE */
 body{
   background-color: #81D8D0;
-  font-size: 14px;
+  box-sizing: border-box;
+  font-size: 20px;
   line-height: 20px;
 }
 
