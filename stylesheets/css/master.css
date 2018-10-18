@@ -13,25 +13,14 @@ body{
   color: #D4AF37;
 }
 
-#intro{
-  padding: 0em 3em .50em 2.5em;
-  font-family: Helvetica, Arial, sans-serif;
-  font-weight: 800;
-  font-size: 35px;
-  line-height: 2;
-  color: #EEE;
-}
-
     a:link {
-      color: #EEE;
-      background-color: transparent;
+      color: #BDF6F7;
       text-decoration: none;
     }
 
     a:hover {
-      color: #67db1a;
-      background-color: transparent;
-      text-decoration: none;
+      color: #BDF6F7;
+      text-decoration: underline;
     }
 
     /* a:active {
@@ -39,8 +28,17 @@ body{
     } */
 
     a:visited {
-        color: #EEE;
+      color: #D4AF37;
+    }
 
+
+    #intro{
+      padding: 0em 3em .50em 2.5em;
+      font-family: Helvetica, Arial, sans-serif;
+      font-weight: 800;
+      font-size: 35px;
+      line-height: 2;
+      color: #EEE;
     }
 
 p {
