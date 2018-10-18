@@ -18,16 +18,16 @@ body{
       text-decoration: none;
     }
 
-    a:hover {
-      color: #D4AF37;
-    }
-
     /* a:active {
       color: #D4AF37;
     } */
 
     a:visited {
       color: #BDF6F7;
+    }
+
+    a:hover {
+      color: #D4AF37;
     }
 
 
