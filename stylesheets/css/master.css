@@ -1,33 +1,59 @@
 /* MASTER CSS FILE */
 body{
-  background-color: #cff9ea;
+  background-color: #217189;
   /* box-sizing: border-box; */
 }
-h1{
-  padding: 4em 3em 1em 2.2em;
+#intro{
+  padding: 0em 3em .50em 2.5em;
   font-family: Helvetica, Arial, sans-serif;
   font-weight: 800;
-  font-size: 45px;
-  line-height: 1;
-  color: #333;
+  font-size: 35px;
+  line-height: 2;
+  color: #EEE;
 }
 
-a:link {
-  color: black;
-  background-color: transparent;
-  text-decoration: none;
-}
+    a:link {
+      color: #EEE;
+      background-color: transparent;
+      text-decoration: none;
+    }
 
-a:hover {
-    color: magenta;
-    background-color: transparent;
-    text-decoration: none;
-  }
+    a:hover {
+      color: #67db1a;
+      background-color: transparent;
+      text-decoration: none;
+    }
+
+
+    a:active {
+      color: #EEE;
+    }
+
+    /* a:visited {
+        color: #EEE;
+    } */
 
 p {
-  padding: 0em 5em 0em 5em;
-  font-family: Helvetica, Arial, sans-serif;
+  padding: 0em 5em 0em 4.4em;
+  font-family: helvetica, Arial, sans-serif;
   font-size: 20px;
-  line-height: 1.3;
-  color: #333;
+  font-weight: 500;
+  /* line-height: 2; */
+  color: #EEE;
+}
+
+#work{
+  padding: 3em 5em 0em 3em;
+  font-family: helvetica, Arial, sans-serif;
+  font-size: 30px;
+  font-weight: 800;
+  color: #EEE;
+}
+
+#bio{
+  padding: 3em 5em 0em 3em;
+  font-family: helvetica, Arial, sans-serif;
+  font-size: 30px;
+  font-weight: 800;
+  color: #EEE;
 }
